@@ -1,0 +1,30 @@
+Klient: CONNECTED: java1
+
+Klient: LOGGED: java1
+
+Klient: REGISTERED: tomek
+
+Klient: java1: <html dir="ltr"><head></head><body contenteditable="true"><p><font face="Segoe UI">czaes</font></p></body></html>
+
+Klient: Server<html dir="ltr"><head></head><body contenteditable="true"></body></html>
+
+Klient: Server<html dir="ltr"><head></head><body contenteditable="true"><p><font face="Segoe UI">siema</font></p></body></html>
+
+Klient: CommunicatorLogger:	 ADDED2.0  tomasz  lenart  25
+
+Klient: CommunicatorLogger:	 REMOVED5.0  Jan2  Kowalski2  23
+
+Klient: CONNECTED: asd
+
+Klient: LOGGED: asd
+
+Klient: CONNECTED: asd
+
+Klient: LOGGED: asd
+
+Klient: CONNECTED: asd
+
+Klient: LOGGED: asd
+
+Klient: CONNECTED: asd
+

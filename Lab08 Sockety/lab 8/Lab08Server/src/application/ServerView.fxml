@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.web.*?>
+
+<AnchorPane prefHeight="512.9609375" prefWidth="573.0000999999975" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="application.ServerController">
+  <!-- TODO Add Nodes -->
+  <children>
+    <Button fx:id="sendButton" disable="true" layoutX="225.0" layoutY="325.0" mnemonicParsing="false" onAction="#send" text="Send" />
+    <TextField fx:id="messageField" layoutX="14.0" layoutY="324.0" prefWidth="200.0" />
+    <TextArea fx:id="messageArea" layoutX="14.0" layoutY="14.0" prefHeight="301.0" prefWidth="258.0" wrapText="true" />
+    <HTMLEditor id="htmlEditor" fx:id="sendHtml" htmlText="&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;" layoutX="0.0" layoutY="387.0" prefHeight="126.0" prefWidth="573.0001220703125" />
+    <WebView fx:id="browser" layoutX="297.0" layoutY="15.0" prefHeight="364.0" prefWidth="255.0" />
+    <Button fx:id="startButton" layoutX="34.0" layoutY="358.0" mnemonicParsing="false" onAction="#startServer" text="Start" />
+    <Button fx:id="stopButton" layoutX="121.0" layoutY="358.0" mnemonicParsing="false" onAction="#stopServer" text="Stop" />
+  </children>
+</AnchorPane>
