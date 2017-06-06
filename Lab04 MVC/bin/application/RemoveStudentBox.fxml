@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane minHeight="81.0000084472631" prefHeight="209.0000084472631" prefWidth="700.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="application.RemoveStudentBoxController">
+  <!-- TODO Add Nodes -->
+  <children>
+    <Label layoutX="24.0" layoutY="149.0" prefWidth="326.0" text="Click the student you want to delete, and then the button:" />
+    <Button fx:id="removeStudentButton" layoutX="341.0" layoutY="147.0" mnemonicParsing="false" onAction="#handleDeleteProduct" text="Delete Student" />
+    <Label layoutX="14.0" layoutY="123.0" prefWidth="119.0" text="REMOVE STUDENT" />
+  </children>
+</AnchorPane>
