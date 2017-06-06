@@ -1,0 +1,20 @@
+04/22/2017 8:48:32 PM:     [REMOVED]    Mark: 5.0  Name: Jan2 Kowalski2   Age: 23
+04/22/2017 8:48:32 PM:     [REMOVED]    Mark: 4.5  Name: Jan6 Kowalski46   Age: 31
+04/22/2017 8:48:33 PM:     [REMOVED]    Mark: 4.0  Name: Jan Kowalski   Age: 22
+04/22/2017 8:48:33 PM:     [REMOVED]    Mark: 4.0  Name: Jan7 Kowalski7   Age: 26
+04/22/2017 8:59:54 PM:     [REMOVED]    Mark: 5.0  Name: Jan2 Kowalski2   Age: 23
+04/22/2017 8:59:54 PM:     [REMOVED]    Mark: 4.5  Name: Jan6 Kowalski46   Age: 31
+04/22/2017 8:59:54 PM:     [REMOVED]    Mark: 4.0  Name: Jan Kowalski   Age: 22
+04/22/2017 8:59:55 PM:     [REMOVED]    Mark: 4.0  Name: Jan7 Kowalski7   Age: 26
+04/22/2017 8:59:55 PM:     [REMOVED]    Mark: 3.0  Name: Jan3 Kowalski3   Age: 25
+04/22/2017 9:00:46 PM:     [REMOVED]    Mark: 5.0  Name: Jan2 Kowalski2   Age: 23
+
+04/22/2017 9:00:47 PM:     [REMOVED]    Mark: 4.5  Name: Jan6 Kowalski46   Age: 31
+
+04/22/2017 9:00:47 PM:     [REMOVED]    Mark: 4.0  Name: Jan Kowalski   Age: 22
+
+04/22/2017 9:00:48 PM:     [REMOVED]    Mark: 4.0  Name: Jan7 Kowalski7   Age: 26
+
+04/22/2017 9:01:39 PM:     [ADDED]    Mark: 6.0  Name: tomasz Lenart   Age: 5
+04/22/2017 9:01:42 PM:     [REMOVED]    Mark: 6.0  Name: tomasz Lenart   Age: 5
+
